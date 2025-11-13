@@ -55,7 +55,7 @@ I’m constantly learning, experimenting, and building creative solutions to rea
 
 <div align="center">
 
-## 📊 GitHub Stats  
+## 📊 Yared Gebre's GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yaya1200&show_icons=true&theme=tokyonight)
 
