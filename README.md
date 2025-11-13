@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # 💫 About Me  
 👋 Hi, I'm **Yared Gebre** — a curious student with a strong passion for **Computer Science** and a goal to become a **skilled software developer**.  
@@ -46,7 +46,6 @@ I’m constantly learning, experimenting, and building creative solutions to rea
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 #### 🔒 Authentication & Deployment  
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth-3EAAAF?style=for-the-badge&logo=auth0&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-0466C8?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -61,9 +60,9 @@ I’m constantly learning, experimenting, and building creative solutions to rea
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Yaya1200&theme=tokyonight)
 
-![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yaya1200&theme=tokyonight)
 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Yaya1200&limit=1&theme=tokyonight)
+
+
 
 </div>
 
