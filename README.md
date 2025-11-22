@@ -60,6 +60,8 @@ I’m constantly learning, experimenting, and building creative solutions to rea
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Yaya1200&theme=tokyonight)
 
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
