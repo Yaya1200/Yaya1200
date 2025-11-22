@@ -54,13 +54,13 @@ I’m constantly learning, experimenting, and building creative solutions to rea
 
 <div align="center">
 
-## 📊 Yared Gebre's GitHub Stats  
+## 📊 GitHub Stats  
 
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Yaya1200&theme=tokyonight)
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yaya1200&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yaya1200&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
