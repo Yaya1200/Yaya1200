@@ -62,7 +62,7 @@ I’m constantly learning, experimenting, and building creative solutions to rea
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yaya1200&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&repo=YOUR_REPO_NAME)
+![GitHub views](https://komarev.com/ghpvc/?username=Yaya1200)
 
 
 
