@@ -64,7 +64,6 @@ I’m constantly learning, experimenting, and building creative solutions to rea
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Yaya1200&theme=tokyonight)
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yaya1200&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub views](https://komarev.com/ghpvc/?username=Yaya1200)
 
