@@ -67,7 +67,10 @@ I’m constantly learning, experimenting, and building creative solutions to rea
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Yaya1200&theme=tokyonight)
-![Yared's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Yaya1200)
+<div>
+  ![Yared's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Yaya1200&theme=tokyonight)
+</div>
+
 
 
 
