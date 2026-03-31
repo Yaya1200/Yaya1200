@@ -60,7 +60,7 @@ I’m constantly learning, experimenting, and building creative solutions to rea
 ## 📊 GitHub Stats  
 
 
-[![GitHub Streak]([https://streak-stats.demolab.com?user=Yaya1200&theme=tokyonight](https://streak-stats.demolab.com/?user=Yaya1200&theme=tokyonight&cache_seconds=1))
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yaya1200)](https://git.io/streak-stats)
 
 
 
