@@ -42,7 +42,7 @@ I’m constantly learning, experimenting, and building creative solutions to rea
 ---
 
 ### 🔒 Authentication & Deployment
-![Deploy/Auth](https://skillicons.dev/icons?i=oauth,supabase,vercel,render)
+![Deploy/Auth](https://skillicons.dev/icons?i=supabase,vercel,netlify,render)
 
 ---
 
