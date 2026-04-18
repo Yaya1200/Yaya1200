@@ -30,17 +30,15 @@ I’m constantly learning, experimenting, and building creative solutions to rea
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
-
-
-
 #### ⚙️ Backend  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=swagger&logoColor=white)
 
-#### 🗄️ Databases  
+#### 🗄️ Databases & Backend Services  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 #### 🧰 Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -51,6 +49,7 @@ I’m constantly learning, experimenting, and building creative solutions to rea
 
 #### 🔒 Authentication & Deployment  
 ![OAuth](https://img.shields.io/badge/OAuth-3EAAAF?style=for-the-badge&logo=auth0&logoColor=white)
+![Supabase Auth](https://img.shields.io/badge/Supabase_Auth-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-0466C8?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
@@ -61,15 +60,6 @@ I’m constantly learning, experimenting, and building creative solutions to rea
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Yaya1200&theme=tokyonight&hide_border=true&background=000000)](https://git.io/streak-stats)
 
-
-
-
-
-
-
-
-
-
 </div>
 
 <div align="center">
@@ -77,5 +67,3 @@ I’m constantly learning, experimenting, and building creative solutions to rea
 🌱 *"Every line of code brings me closer to who I want to become."*
 
 </div>
-
-
