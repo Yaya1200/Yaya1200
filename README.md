@@ -17,14 +17,7 @@ I’m constantly learning, experimenting, and building creative solutions to rea
 ## 💻 Tech Stack
 
 ### 🧠 Programming Languages
-![C++](https://skillicons.dev/icons?i=cpp,java,python,js,ts,sql)
-![Frontend](https://skillicons.dev/icons?i=html,css,react,tailwind,nextjs,redux,ts)
-![Backend](https://skillicons.dev/icons?i=nodejs,express)
-![Databases](https://skillicons.dev/icons?i=postgres,mongodb,supabase)
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,linux)
-![Deploy/Auth](https://skillicons.dev/icons?i=supabase,vercel,netlify,render)
-
----
+![techstack](https://skillicons.dev/icons?i=cpp,java,python,js,ts,html,css,react,tailwind,nextjs,redux,nodejs,express,postgres,mongodb,supabase,git,github,vscode,postman,linux,vercel,netlify,render)
 
 ## 📊 GitHub Stats  
 
