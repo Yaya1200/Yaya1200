@@ -18,30 +18,10 @@ I’m constantly learning, experimenting, and building creative solutions to rea
 
 ### 🧠 Programming Languages
 ![C++](https://skillicons.dev/icons?i=cpp,java,python,js,ts,sql)
-
----
-
-### 🌐 Frontend
 ![Frontend](https://skillicons.dev/icons?i=html,css,react,tailwind,nextjs,redux,ts)
-
----
-
-### ⚙️ Backend
 ![Backend](https://skillicons.dev/icons?i=nodejs,express)
-
----
-
-### 🗄️ Databases & Backend Services
 ![Databases](https://skillicons.dev/icons?i=postgres,mongodb,supabase)
-
----
-
-### 🧰 Tools & Platforms
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,linux)
-
----
-
-### 🔒 Authentication & Deployment
 ![Deploy/Auth](https://skillicons.dev/icons?i=supabase,vercel,netlify,render)
 
 ---
