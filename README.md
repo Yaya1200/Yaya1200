@@ -22,8 +22,8 @@ I’m constantly learning, experimenting, and building creative solutions to rea
 ## 📊 GitHub Stats  
 
 <div align="center">
-
-
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yaya1200&theme=tokyonight&hide_border=true&background=000000)](https://git.io/streak-stats)
 
 </div>
 
