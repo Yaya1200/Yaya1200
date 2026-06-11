@@ -24,7 +24,7 @@ I’m constantly learning, experimenting, and building creative solutions to rea
 <div align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=Yaya1200&theme=tokyonight&hide_border=true&background=000000)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=Yaya1200&show_icons=true&theme=blue-green&hide_border=true)]
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=Yaya1200&show_icons=true&theme=blue-green&hide_border=true)
 
 </div>
 
