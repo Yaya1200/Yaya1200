@@ -17,7 +17,7 @@ I’m constantly learning, experimenting, and building creative solutions to rea
 ## 💻 Tech Stack
 
 ### 🧠 Programming Languages
-![techstack](https://skillicons.dev/icons?i=cpp,java,python,js,ts,html,css,react,tailwind,nextjs,redux,nodejs,express,postgres,mongodb,supabase,git,github,vscode,postman,linux,vercel,netlify,render)
+![techstack](https://skillicons.dev/icons?i=cpp,java,python,js,ts,html,css,react,tailwind,nextjs,redux,nodejs,express,postgres,mongodb,supabase,git,github,vscode,postman,linux,vercel,netlify,render,docker)
 
 ## 📊 GitHub Stats  
 
