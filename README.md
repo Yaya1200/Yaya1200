@@ -23,7 +23,7 @@ I’m constantly learning, experimenting, and building creative solutions to rea
 
 <div align="center">
   
-![GitHub Streak](https://streak-stats.demolab.com?user=Yaya1200&theme=tokyonight&hide_border=true&background=000000)
+
 
 ![GitHub Streak](https://ghstats.dev/api/card?username=Yaya1200&hide_border=true&hide_title=true)
 
