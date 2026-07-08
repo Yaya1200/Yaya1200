@@ -23,7 +23,7 @@ I’m constantly learning, experimenting, and building creative solutions to rea
 
 <div align="center">
 
-![GitHub Stats](https://ghstats.dev/api/card?username=Yaya12000&theme=tokyo-night&hide_border=true&hide_title=true)
+![GitHub Stats](https://ghstats.dev/api/card?username=Yaya1200&theme=tokyo-night&hide_border=true&hide_title=true)
 
 </div>
 
