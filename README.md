@@ -27,7 +27,6 @@ I’m constantly learning, experimenting, and building creative solutions to rea
 
 </div>
 
----
 
 <div align="center">
 
